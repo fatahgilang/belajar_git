@@ -1,2 +1,2 @@
-# belajar_git
+# belajar
 basic pembelajaran git
